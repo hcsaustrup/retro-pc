@@ -19,6 +19,7 @@
 
 - [PicoGUS](https://github.com/polpo/picogus) - emulation of Gravis Ultrasound, Tandy, SoundBlaster and intelligent mode MPU-401.
 - [WP32 McCake](https://www.serdashop.com/WP32-McCake) - a waveblaster sound card running [MT-32pi](https://github.com/dwhinham/mt32-pi).
+- **Creative Sound Blaster Vibra 16 ISA (CT4180)** - emulated OPL FM, but otherwise a very reasonably priced and easily obtainable ISA PNP card configurable by UNISOUND.
 
 ### Storage
 
