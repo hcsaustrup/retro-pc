@@ -13,6 +13,10 @@
 
 - Some PATA/IDE CD-ROM drives give sporadic read errors - use the OAK driver instead.
 
+### Windows 98
+
+- [Various tools and patches for modern hardware](http://lonecrusader.x10host.com/rloew/rloew.html) by the late Rudolph R. Loew (rloew). Also visit his [memorial homepage](https://rloewelectronics.com/).
+
 ## Hardware
 
 ### Audio Hardware
@@ -35,4 +39,4 @@ The ITX-Llama is a PC motherboard in the ITX form factor, aimed at running 90s D
 - [User Group](https://www.facebook.com/groups/509705165401087) on Facebook.
 - ITX case idea: [Chieftech BT-02B-U3-250VS](https://www.chieftec.eu/products-detail/93/BT-02B-U3-250VS)
 - ITX case idea: [Inter-Tech MI-008 ITX](https://www.inter-tech.de/productdetails-155/MI-008_ITX_EN.html)
-- ITX case idea: [Sharkoon Shark Zone C10](https://en.sharkoon.com/product/16426)
+
